@@ -2,4 +2,7 @@
 
 For each of the statements below, mark with an "X" the column that correctly classifies the sentence. If you select False, you MUST justify your choice, saying what is wrong with the statement.
 
-1.
+1. git reset does the same thing as git revert
+
+2. When pushing a version 1.1 file to an already commited and pushed 1.2 file will output an error.
+
