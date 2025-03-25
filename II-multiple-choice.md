@@ -4,7 +4,7 @@ Circle the choice that best answers each question. If you select more than one, 
 
 1. What git command is used to change branches?
    a. git branch <name>
-   b. git switch
+   b. git checkout
    c. git fetch
    d. git reset
 2. 
