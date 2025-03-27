@@ -19,3 +19,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. installation and configuration of firewall
    c. Enabling SSH pasword authentication
    d. Changing SSH listening port
+
+4. Which command is used to display the contents of a text file in Unix?
+a. cat
+b. view
+c. open
+d. show
