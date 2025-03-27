@@ -22,4 +22,9 @@ For each of the statements below, mark with an "X" the column that correctly cla
 19. The 'git commit' command saves any changes made to the staging area but does not save them to the repository itself. 
 21. A good coding practice is to pull, commit, and push often
 22. The commit message is optional and not necessary for a clean repo
-23. In Git, the command 'git commit' automatically uploads your changes to a remote repository like GitHub
+23. You should always commit before switching branches to avoid losing untracked changes.
+24. chmod 777 grants all permissions to all users on a file.
+25. A hard link and a symbolic link are the same thing in Linux.
+26. In Linux, the ps command shows a list of active processes.
+27. Github originated from the Linux Kernel.
+28. In Git, the command 'git commit' automatically uploads your changes to a remote repository like GitHub
