@@ -9,3 +9,4 @@
 7. How would you send suggestions to fix a FLOSS project?
 8. How does SSH enhance security when accessing remote servers compared to using plain text protocols?
 9. What steps would you take to troubleshoot a failed Git pull command when working on a shared repository?
+11.What is a System Administrator
