@@ -1,3 +1,11 @@
 # Part III: Open questions
 
 1. 
+
+added questions
+
+1. Explain the difference between the cp and mv commands in Linux.
+2. What is the difference between a Linux distribution
+and a desktop environment?
+3. Describe the difference between r,q, and x permission
+

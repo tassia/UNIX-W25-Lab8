@@ -12,3 +12,14 @@ For each of the statements below, mark with an "X" the column that correctly cla
 8. To restart the Linux system, you can use the command `reboot` or `shutdown -r now`, both of which only work as root.
 9. `.` is used to mark hidden files and folders. For example `.bashrc`.
 10. KDE Plasma is a Linux distribution that provides a similar user experience to Windows.
+
+added questions:
+1. The command chmod 777 sets file permissions to give
+ full read, write, and execute access
+ to everyone on a file or directory.
+2. Ubuntu is a Linux distribution that is based on Debian and is designed
+ to be user-friendly for both beginners and advanced users.
+3.The root user doesnt have full administrative power
+4.Public key is used to decrypt messages
+5.DevOps is a set of practices and tools that aims
+to improve collaboration between development and IT operations teams

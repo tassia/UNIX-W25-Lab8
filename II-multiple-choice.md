@@ -19,3 +19,26 @@ Circle the choice that best answers each question. If you select more than one, 
    b. installation and configuration of firewall
    c. Enabling SSH pasword authentication
    d. Changing SSH listening port
+
+
+
+ added questions: 
+1. Which of the following commands is used to display the
+current working directory in Linux?
+  a) pwd
+  b)ls
+  c)cd
+  d)mkdir
+
+2.Which command is used to display the currently
+ running processes in Linux?
+  a)ps
+  b)top
+  c)htop
+  d)allof the above
+
+3.Which of the following is a Debian-based Linux distribution?
+  a) fedora
+  b)arch linux
+  c)ubuntu
+  d)red hat
