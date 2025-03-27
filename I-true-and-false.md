@@ -14,3 +14,6 @@ For each of the statements below, mark with an "X" the column that correctly cla
 11. A sticky bit restricts file deletion to the owner
 12. Debian-based distros uses apt for package management.
 13. SSH is a virtual machine service for hosting applications. 
+14. git push is the same as git push origin main
+15. You need to add Collaborator on a Private repository for someone to access it
+16. creating a repository automatically creates a readme.md file

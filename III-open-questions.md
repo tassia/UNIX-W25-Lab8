@@ -6,3 +6,5 @@
 2. What are the benefits of FLOSS for the user?
 
 3. In what order should you run `git` commands to get the files from the repository, edit and put them back in?
+
+4. What steps should you take when you encounter a merge conflict after pulling remote changes?

@@ -25,3 +25,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b.key-generate
    c.gpg --ssh
    d.ssh-keygen
+
+5. What command you should use to push your changes to GitHub?
+   a. git commit
+   b. git push
+   c. give up
+   d. create a new repository
