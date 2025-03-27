@@ -26,3 +26,4 @@ For each of the statements below, mark with an "X" the column that correctly cla
 24. chmod 777 grants all permissions to all users on a file.
 25. A hard link and a symbolic link are the same thing in Linux.
 26. In Linux, the ps command shows a list of active processes.
+27. Github originated from the Linux Kernel.
