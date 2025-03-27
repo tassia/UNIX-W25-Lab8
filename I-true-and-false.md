@@ -12,3 +12,6 @@ For each of the statements below, mark with an "X" the column that correctly cla
 8. To restart the Linux system, you can use the command `reboot` or `shutdown -r now`, both of which only work as root.
 9. `.` is used to mark hidden files and folders. For example `.bashrc`.
 10. KDE Plasma is a Linux distribution that provides a similar user experience to Windows.
+11. When you clone a git repository, it creates a local copy of the repository with all off the history including the working area, staging area and the repository files.
+12. Git and GitHub is the same thing.
+13. The 'git commit' command saves any changes made to the staging area but does not save them to the repository itself. 

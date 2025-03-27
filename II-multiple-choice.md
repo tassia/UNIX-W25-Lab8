@@ -19,3 +19,15 @@ Circle the choice that best answers each question. If you select more than one, 
    b. installation and configuration of firewall
    c. Enabling SSH pasword authentication
    d. Changing SSH listening port
+
+4. What is the main difference between Git and GitHub?
+   a. Git is a network protocol and GitHub is a platform that implements Git.
+   b. Git is a platform for hosting repositories whereas GitHub is a tool.
+   c. Git is a paid service and Github is free.
+   d. GitHub is only for open-source projects while Git is for private repositories
+
+5. What is the purpose of a pull/merge request in Git?
+   a. To update your local repository with changes from the remote repository.
+   b. To request the upstream repository to accept your changes and merge them.
+   c. To delete a branch from the repository.
+   d. To reset your local changes and pull from the main branch.
