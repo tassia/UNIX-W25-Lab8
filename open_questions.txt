@@ -1,0 +1,10 @@
+1. Explain the difference between `chmod` and `chown` in Linux.  
+2. Describe the process of creating and using SSH key pairs for authentication.  
+3. What is the significance of file permissions in Linux, and how does the system enforce them?  
+4. In SSH, what is the purpose of port forwarding, and how is it set up?  
+5. How would you change the ownership of a file to a different user and group in Linux?  
+6. What are the risks of setting a file’s permissions to `777`, and how can it impact system security?  
+7. How would you use the `scp` command to transfer a file from your local machine to a remote server?  
+8. What are the three types of file permissions in Linux, and what do each of them allow?  
+9. Describe what an SSH tunnel is and how it can be used to secure network traffic.  
+10. What is the purpose of the `~/.ssh/authorized_keys` file, and what role does it play in SSH key-based authentication?  
