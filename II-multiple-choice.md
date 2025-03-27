@@ -71,3 +71,22 @@ Circle the choice that best answers each question. If you select more than one, 
    b. git init
    c. git add
    d. git create
+ 
+13. Which of the following commands is used to display the current working directory in Linux?
+   a. pwd
+   b. ls
+   c. cd
+   d. mkdir
+
+14.Which command is used to display the currently running processes in Linux?
+   a. ps
+   b. top
+   c. htop
+   d. all of the above
+
+15. Which of the following is a Debian-based Linux distribution?
+   a. fedora
+   b. arch linux
+   c. ubuntu
+   d. red hat
+  

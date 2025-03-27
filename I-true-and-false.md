@@ -28,3 +28,8 @@ For each of the statements below, mark with an "X" the column that correctly cla
 26. In Linux, the ps command shows a list of active processes.
 27. Github originated from the Linux Kernel.
 28. In Git, the command 'git commit' automatically uploads your changes to a remote repository like GitHub
+29. The command chmod 777 sets file permissions to give full read, write, and execute access to everyone on a file or directory.
+30. Ubuntu is a Linux distribution that is based on Debian and is designed to be user-friendly for both beginners and advanced users.
+31. The root user doesnt have full administrative power
+32. Public key is used to decrypt messages
+33. DevOps is a set of practices and tools that aims to improve collaboration between development and IT operations teams
