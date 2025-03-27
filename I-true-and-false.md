@@ -17,3 +17,6 @@ For each of the statements below, mark with an "X" the column that correctly cla
 14. User configuration is stored in the file ~/.gitconfig
 15. A new branch is a full copy of the repository
 16. By default, every process has a nice value of 0.
+17. When you clone a git repository, it creates a local copy of the repository with all off the history including the working area, staging area and the repository files.
+18. Git and GitHub is the same thing.
+19. The 'git commit' command saves any changes made to the staging area but does not save them to the repository itself. 
