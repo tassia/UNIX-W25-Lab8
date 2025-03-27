@@ -12,3 +12,5 @@ For each of the statements below, mark with an "X" the column that correctly cla
 8. To restart the Linux system, you can use the command `reboot` or `shutdown -r now`, both of which only work as root.
 9. `.` is used to mark hidden files and folders. For example `.bashrc`.
 10. KDE Plasma is a Linux distribution that provides a similar user experience to Windows.
+11. A good coding practice is to pull, commit, and push often
+12. The commit message is optional and not necessary for a clean repo (X -> while it is an option to leave the message empty, a message is always needed to keep a clean repo)
