@@ -65,3 +65,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. /etc/ssh/sshd_config
    c. ~/.ssh/config
    d. /etc/ssh/auth_config
+
+12. Which command is used to create a git repository ?
+   a. git clone
+   b. git init
+   c. git add
+   d. git create

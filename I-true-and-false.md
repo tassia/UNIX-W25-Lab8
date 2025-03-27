@@ -27,3 +27,4 @@ For each of the statements below, mark with an "X" the column that correctly cla
 25. A hard link and a symbolic link are the same thing in Linux.
 26. In Linux, the ps command shows a list of active processes.
 27. Github originated from the Linux Kernel.
+28. In Git, the command 'git commit' automatically uploads your changes to a remote repository like GitHub
