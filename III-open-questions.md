@@ -13,3 +13,4 @@
 11. Explain the difference between the cp and mv commands in Linux.
 12. What is the difference between a Linux distribution and a desktop environment?
 13. Describe the difference between r, w, and x file permissions.
+14. What steps should take when you encouter a merge conflit after pulling remote changes?

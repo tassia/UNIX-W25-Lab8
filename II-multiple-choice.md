@@ -9,7 +9,7 @@ Circle the choice that best answers each question. If you select more than one, 
 2. By default, where is the private key stored when calling command ssh-keygen? 
    a. id_rsa
    b. id_rsa.pub
-   c. id_rsa.priv
+  c. id_rsa.priv
    d. id_rsa.ssh
 
 3. What is NOT related to hardening your system:
@@ -89,4 +89,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. arch linux
    c. ubuntu
    d. red hat
-  
+
+16. What command you should use to push your changes to GitHub?
+   a. git commit
+   b. git push
+   c. give up
+   d. create a new repository

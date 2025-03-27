@@ -33,3 +33,6 @@ For each of the statements below, mark with an "X" the column that correctly cla
 31. The root user doesnt have full administrative power
 32. Public key is used to decrypt messages
 33. DevOps is a set of practices and tools that aims to improve collaboration between development and IT operations teams
+34. git push is the same as git push origin main
+35. You need to add Collaborator on a Private repository for someone to access it
+36. creating a repository automatically creates a readme.md file
