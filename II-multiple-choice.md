@@ -41,3 +41,8 @@ Circle the choice that best answers each question. If you select more than one, 
    b. To request the upstream repository to accept your changes and merge them.
    c. To delete a branch from the repository.
    d. To reset your local changes and pull from the main branch.
+8. Which command is used to create a git repository ?
+   a. git clone
+   b. git init
+   c. git add
+   d. git create
