@@ -17,8 +17,12 @@ For each of the statements below, mark with an "X" the column that correctly cla
 14. User configuration is stored in the file ~/.gitconfig
 15. A new branch is a full copy of the repository
 16. By default, every process has a nice value of 0.
-17. You should always commit before switching branches to avoid losing untracked changes.
-18. chmod 777 grants all permissions to all users on a file.
-19. A hard link and a symbolic link are the same thing in Linux.
-20. In Linux, the ps command shows a list of active processes.
-
+17. When you clone a git repository, it creates a local copy of the repository with all off the history including the working area, staging area and the repository files.
+18. Git and GitHub is the same thing.
+19. The 'git commit' command saves any changes made to the staging area but does not save them to the repository itself. 
+21. A good coding practice is to pull, commit, and push often
+22. The commit message is optional and not necessary for a clean repo
+23. You should always commit before switching branches to avoid losing untracked changes.
+24. chmod 777 grants all permissions to all users on a file.
+25. A hard link and a symbolic link are the same thing in Linux.
+26. In Linux, the ps command shows a list of active processes.
