@@ -1,5 +1,3 @@
-# Part II: Multiple choice
-
 Circle the choice that best answers each question. If you select more than one, your response will be invalid.
 
 1. What git command is used to change branches?
@@ -21,7 +19,13 @@ Circle the choice that best answers each question. If you select more than one, 
    d. Changing SSH listening port
 
 4. Which command is used to display the contents of a text file in Unix?
-a. cat
-b. view
-c. open
-d. show
+   a. cat
+   b. view
+   c. open
+   d. show
+
+5. In order to generate a public/private key for use with SSH, what command line utility should you use?
+   a.ssh-newkey 
+   b.key-generate
+   c.gpg --ssh
+   d.ssh-keygen
